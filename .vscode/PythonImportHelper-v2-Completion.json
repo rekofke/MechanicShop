@@ -1599,7 +1599,7 @@
         "kind": 2,
         "importPath": "app.blueprints.mechanics.routes",
         "description": "app.blueprints.mechanics.routes",
-        "peekOfCode": "def get_mechanic(id):\n    query = select(Mechanic).where(Mechanic.id == id)\n    mechanic = db.session.execute(query).scalars().first()\n    if mechanic is None:\n        return jsonify({\"message\": \"Invalid mechanic ID\"}), 404\n    return mechanic_schema.jsonify(mechanic), 200\n# update mechanic\n@mechanics_bp.route('/', methods=['PUT'])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 mechanics per hour",
+        "peekOfCode": "def get_mechanic(id):\n    mechanic = db.session.get(Mechanic, id)\n    if mechanic:\n        return mechanic_schema.jsonify(mechanic), 200\n    return jsonify({'error': 'Invalid mechanic ID'}), 400\n# update mechanic\n@mechanics_bp.route('/', methods=['PUT'])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 mechanics per hour\ndef update_mechanic():",
         "detail": "app.blueprints.mechanics.routes",
         "documentation": {}
     },
@@ -2346,7 +2346,7 @@
         "kind": 6,
         "importPath": "tests2.test_mechanics",
         "description": "tests2.test_mechanics",
-        "peekOfCode": "class TestMechanic(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app()\n        self.mechanic = Mechanic(name='Test', address='123 Test', email='test@test.com', password=generate_password_hash('123'))\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.mechanic)\n            db.session.commit()\n        self.token = encode_token(1)",
+        "peekOfCode": "class TestMechanic(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app()\n        self.mechanic = Mechanic(name='Test', address='123 Test', email='test@test.com', password=generate_password_hash('123'))\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.mechanic)\n            db.session.commit()\n            self.mechanic_id = self.mechanic.id",
         "detail": "tests2.test_mechanics",
         "documentation": {}
     },

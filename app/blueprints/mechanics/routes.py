@@ -77,13 +77,10 @@ def get_mechanics():
 # get mechanic by id
 @mechanics_bp.route('/<int:id>', methods=['GET'])
 def get_mechanic(id):
-    query = select(Mechanic).where(Mechanic.id == id)
-    mechanic = db.session.execute(query).scalars().first()
-
-    if mechanic is None:
-        return jsonify({"message": "Invalid mechanic ID"}), 404
-    return mechanic_schema.jsonify(mechanic), 200
-
+    mechanic = db.session.get(Mechanic, id)
+    if mechanic:
+        return mechanic_schema.jsonify(mechanic), 200
+    return jsonify({'error': 'Invalid mechanic ID'}), 400
 # update mechanic
 @mechanics_bp.route('/', methods=['PUT'])
 @token_required
