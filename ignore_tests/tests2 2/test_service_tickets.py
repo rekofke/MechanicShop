@@ -1,18 +1,15 @@
 from app import create_app
 from app.models import db, Service_Ticket
-from app.utils import encode_token
+from app.utils.utils import encode_token
 from marshmallow.exceptions import ValidationError
+from datetime import datetime
 import unittest
 
 
 class TestService_Tickets(unittest.TestCase):
     def setUp(self):
         self.app = create_app('TestingConfig')
-        self.service_ticket = Service_Ticket(
-            part_name="test_part",
-            brand="test_brand",
-            price=100.0
-        )
+        self.service_ticket = Service_Ticket(date="2023-10-01", type="test_type", status='completed', customer_id=1, vehicle_id=1 )
         with self.app.app_context():
             db.drop_all()
             db.create_all()
@@ -28,9 +25,11 @@ class TestService_Tickets(unittest.TestCase):
 
     def test_create_service_ticket(self):
         payload = {
-            "part_name": "test_part",
-            "brand": "test_brand",
-            "price": 100.0
+            'date': '2023-10-01',
+            'type': 'test_type',
+            'status': 'completed',
+            'customer_id': 1,
+            'vehicle_id': 1,
         }
 
         response = self.client.post('/service_tickets/', json=payload)
@@ -39,8 +38,11 @@ class TestService_Tickets(unittest.TestCase):
 
     def test_create_service_ticket_invalid(self):
         payload = {
-            "part_name": "test_part",
-            "brand": "test_brand"
+            'date': '2023-10-01',
+            'type': 'test_type',
+            'status': 'completed',
+            'customer_id': 1,
+            'vehicle_id': 1,
         }
 
         response = self.client.post('/service_tickets/', json=payload)
@@ -50,8 +52,7 @@ class TestService_Tickets(unittest.TestCase):
     def test_get_service_tickets(self):
         response = self.client.get('/service_tickets/?page=1&per_page=10')
         self.assertEqual(response.status_code, 200)
-        self.assertGreaterEqual(len(response.json), 1)
-
+        self.assertEqual(response.json['name'], 'John Doe')
     def test_service_ticket_not_found(self):
         response = self.client.get('/service_tickets/')
         self.assertEqual(response.status_code, 404)
@@ -65,9 +66,11 @@ class TestService_Tickets(unittest.TestCase):
     def test_update_service_ticket(self):
         update_payload = {
             "id": self.service_ticket.id,
-            "part_name": "updated_part",
-            "brand": "updated_brand",
-            "price": 150.0
+            'date': '2023-10-01',
+            'type': 'test_type',
+            'status': 'completed',
+            'customer_id': 1,
+            'vehicle_id': 1,
         }
 
         headers = {'Authorization': f'Bearer {self.token}'}
@@ -96,14 +99,14 @@ class TestService_Tickets(unittest.TestCase):
 
     def invalid_part(self):
         response = self.client.get('/service_tickets/')
-        self.assertEqual(response.status_code, 404)
+        self.assertEqual(response.status_code, 400)
         self.assertEqual(response.json['message'], 'Invalid part or ticket')
 
     def add_mechanic_to_ticket(self):
         headers = {'Authorization': f'Bearer {self.token}'}
         response = self.client.put(f'/service_tickets/{self.service_ticket.id}/{self.mechanic.id}', headers=headers)
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(response.json['name'], 'up')
+        self.assertEqual(response.json['name'], 'test_mechanic')
 
     def remove_mechanic_from_ticket(self):
         headers = {'Authorization': f'Bearer {self.token}'}
@@ -113,7 +116,7 @@ class TestService_Tickets(unittest.TestCase):
 
     def invalid_mechanic(self):
         response = self.client.get('/service_tickets/')
-        self.assertEqual(response.status_code, 404)
+        self.assertEqual(response.status_code, 400)
         self.assertEqual(response.json['message'], 'Invalid mechanic or ticket')
 
     def add_unused_part_to_ticket(self):

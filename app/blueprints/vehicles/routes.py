@@ -30,25 +30,12 @@ def add_vehicle():
 @vehicles_bp.route('/', methods=['GET'])
 @cache.cached(timeout=60)  # added caching because assessing vehicles is a common operation
 def get_vehicles():
-    # pagination (page/per_page)
     page = request.args.get('page', type=int)
     per_page = request.args.get('per_page', default=10, type=int)
+    query = select(Vehicle)
+    vehicles = db.paginate(query, page=page, per_page=per_page)
+    return vehicles_schema.jsonify(vehicles), 200
 
-
-    if page:
-        pagination = db.paginate(select(Vehicle), page=page, per_page=per_page)
-        vehicle = pagination.items
-
-        if not vehicle:
-            return jsonify({"message": "No vehicles found"}), 404
-        return vehicles_schema.jsonify(vehicle)
-    else:
-        vehicles = db.session.execute(select(Vehicle)). scalars().all()
-
-        if not vehicles:
-            return jsonify({"message": "No mechanics found"}), 404
-        
-        return vehicles_schema.jsonify(vehicles), 200
 
 # get vehicle by id
 @vehicles_bp.route('/<int:id>', methods=['GET'])
@@ -57,7 +44,7 @@ def get_vehicle(id):
     vehicle = db.session.execute(query).scalars().first()
 
     if vehicle is None:
-        return jsonify({'message': "Invalid vehicle ID"}), 404
+        return jsonify({'message': "Invalid vehicle ID"}), 400
     
     return vehicle_schema.jsonify(vehicle), 200
 

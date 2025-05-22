@@ -6,6 +6,7 @@ from app.models import db, Mechanic
 from sqlalchemy import select, delete
 from app.extensions import limiter, cache
 from app.utils.utils import encode_token, token_required
+from werkzeug.security import check_password_hash
 
 
 # Mechanic endpoints
@@ -19,7 +20,7 @@ def login():
     query = select(Mechanic).where(Mechanic.email == creds['email'])
     mechanic = db.session.execute(query).scalars().first()
     
-    if mechanic and mechanic.password == creds['password']:
+    if mechanic and check_password_hash(mechanic.password, creds['password']):
         token = encode_token(mechanic.id)
         response = {
             'status': 'success',
@@ -27,6 +28,8 @@ def login():
             'token': token
         }
         return jsonify({'token': token}), 200
+    else:
+        return jsonify({'message': 'Invalid email or password'}), 400
         
 
 # Add mechanic

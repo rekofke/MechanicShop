@@ -1,0 +1,2398 @@
+[
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Service_Ticket",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Service_Ticket",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Service_Ticket",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "isExtraImport": true,
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "isExtraImport": true,
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "mechanics_bp",
+        "importPath": "app.blueprints.mechanics",
+        "description": "app.blueprints.mechanics",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics",
+        "documentation": {}
+    },
+    {
+        "label": "mechanic_schema",
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "mechanics_schema",
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "login_schema",
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "mechanics_schema",
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "mechanic_schema",
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "serialized_parts_schema",
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "serialized_part_schema",
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyAutoSchema",
+        "importPath": "marshmallow_sqlalchemy",
+        "description": "marshmallow_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "marshmallow_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles_bp",
+        "importPath": "app.blueprints.vehicles",
+        "description": "app.blueprints.vehicles",
+        "isExtraImport": true,
+        "detail": "app.blueprints.vehicles",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_schema",
+        "importPath": "app.blueprints.vehicles.schemas",
+        "description": "app.blueprints.vehicles.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.vehicles.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles_schema",
+        "importPath": "app.blueprints.vehicles.schemas",
+        "description": "app.blueprints.vehicles.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.vehicles.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Marshmallow",
+        "importPath": "flask_marshmallow",
+        "description": "flask_marshmallow",
+        "isExtraImport": true,
+        "detail": "flask_marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Limiter",
+        "importPath": "flask_limiter",
+        "description": "flask_limiter",
+        "isExtraImport": true,
+        "detail": "flask_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "get_remote_address",
+        "importPath": "flask_limiter.util",
+        "description": "flask_limiter.util",
+        "isExtraImport": true,
+        "detail": "flask_limiter.util",
+        "documentation": {}
+    },
+    {
+        "label": "Cache",
+        "importPath": "flask_caching",
+        "description": "flask_caching",
+        "isExtraImport": true,
+        "detail": "flask_caching",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "marshmallow.exceptions",
+        "description": "marshmallow.exceptions",
+        "isExtraImport": true,
+        "detail": "marshmallow.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "customer_schema",
+        "importPath": "app.blueprints.customers.schemas",
+        "description": "app.blueprints.customers.schemas",
+        "isExtraImport": true,
+        "detail": "app.blueprints.customers.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionConfig",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "add_customer",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def add_customer():\n    try:\n        customer_data = customer_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(Customer).where(Customer.email == customer_data['email'])\n    # use data to create an instance of customer\n    new_customer = Customer(**customer_data)\n    # add the new customer to the session\n    db.session.add(new_customer)",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_customers",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def get_customers():\n    page = request.args.get('page', type=int)\n    per_page = request.args.get('per_page', default=10, type=int)\n    query = select(Customer)\n    customers = db.paginate(query, page=page, per_page=per_page)\n    return customers_schema.jsonify(customers), 200\n    # if page:\n    #     pagination = db.paginate(select(Customer), page=page, per_page=per_page)\n    #     customers = pagination.items\n    #     if not customers:",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_customer",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def get_customer(customer_id):\n    customer = db.session.get(Customer, customer_id)\n    if customer:\n        return customer_schema.jsonify(customer), 200\n    return jsonify({\"error\": \"invalid customer ID\"}), 400\n# update customer\n@customers_bp.route(\"/<int:customer_id>\", methods=[\"PUT\"])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 customers per hour\ndef update_customer(customer_id):",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_customer",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def update_customer(customer_id):\n    customer = db.session.get(Customer, customer_id)\n    if not customer:\n        return jsonify({\"error\": \"Invalid customer ID\"}), 404\n    try:\n        customer_data = customer_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    for field, value in customer_data.items():\n        setattr(customer, field, value)",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_customer",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def delete_customer(customer_id):\n    customer = db.session.get(Customer, customer_id)\n    if not customer:\n        return jsonify({\"message\": \"Invalid part id\"}), 404\n    db.session.delete(customer)\n    db.session.commit()\n    return jsonify({\"message\": f\"Successfully deleted customer {customer_id}\"}), 200\n#* Query Parameters\n# Search for customer by name\n@customers_bp.route(\"/search\", methods=['GET'])",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "search_by_name",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def search_by_name():\n    name = request.args.get('name')\n    print(name)\n    query = select(Customer).where(Customer.name.like(f\"%{name}%\"))\n    customer = db.session.execute(query).scalars().first()\n    print(customer)\n    return customer_schema.jsonify(customer), 200\n# Search for customer by email\n@customers_bp.route(\"/search\", methods=['GET'])\ndef search_by_email():",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "search_by_email",
+        "kind": 2,
+        "importPath": "app.blueprints.customers.routes",
+        "description": "app.blueprints.customers.routes",
+        "peekOfCode": "def search_by_email():\n    email = request.args.get('email')\n    print(email)\n    query = select(Customer).where(Customer.email.like(f\"%{email}%\"))\n    customer = db.session.execute(query).scalars().first()\n    print(customer)\n    return customer_schema.jsonify(customer), 200",
+        "detail": "app.blueprints.customers.routes",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.customers.schemas",
+        "description": "app.blueprints.customers.schemas",
+        "peekOfCode": "class CustomerSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Customer\n        include_relationships = True  # Optional, includes relationships if needed\ncustomer_schema = CustomerSchema()\ncustomers_schema = CustomerSchema(many=True)\nlogin_schema = CustomerSchema(exclude=(\"name\", \"phone\"))",
+        "detail": "app.blueprints.customers.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "customer_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.customers.schemas",
+        "description": "app.blueprints.customers.schemas",
+        "peekOfCode": "customer_schema = CustomerSchema()\ncustomers_schema = CustomerSchema(many=True)\nlogin_schema = CustomerSchema(exclude=(\"name\", \"phone\"))",
+        "detail": "app.blueprints.customers.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "customers_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.customers.schemas",
+        "description": "app.blueprints.customers.schemas",
+        "peekOfCode": "customers_schema = CustomerSchema(many=True)\nlogin_schema = CustomerSchema(exclude=(\"name\", \"phone\"))",
+        "detail": "app.blueprints.customers.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "login_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.customers.schemas",
+        "description": "app.blueprints.customers.schemas",
+        "peekOfCode": "login_schema = CustomerSchema(exclude=(\"name\", \"phone\"))",
+        "detail": "app.blueprints.customers.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def login():\n    try:\n        creds = login_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(Mechanic).where(Mechanic.email == creds['email'])\n    mechanic = db.session.execute(query).scalars().first()\n    if mechanic and check_password_hash(mechanic.password, creds['password']):\n        token = encode_token(mechanic.id)\n        response = {",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def create_mechanic():\n    try:\n        mechanic_data = mechanic_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(Mechanic).where(Mechanic.email == mechanic_data['email'])\n    existing_mechanic = db.session.execute(query).scalars().first()\n    new_mechanic = Mechanic(**mechanic_data)\n    db.session.add(new_mechanic)\n    db.session.commit()",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_mechanics",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def get_mechanics():\n    page = request.args.get('page', type=int)\n    per_page = request.args.get('per_page', default=10, type=int)\n    if page:\n        pagination = db.paginate(select(Mechanic), page=page, per_page=per_page)\n        mechanics = pagination.items\n        if not mechanics:\n            return jsonify({\"message\": \"No mechanics found\"}), 404\n        return mechanics_schema.jsonify(mechanics)\n    else:",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def get_mechanic(id):\n    query = select(Mechanic).where(Mechanic.id == id)\n    mechanic = db.session.execute(query).scalars().first()\n    if mechanic is None:\n        return jsonify({\"message\": \"Invalid mechanic ID\"}), 404\n    return mechanic_schema.jsonify(mechanic), 200\n# update mechanic\n@mechanics_bp.route('/', methods=['PUT'])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 mechanics per hour",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def update_mechanic():\n    query = select(Mechanic).where(Mechanic.id == id)\n    mechanic = db.session.get(Mechanic, request.mechanic_id)\n    if mechanic is None:\n        return jsonify({\"message\": \"Invalid mechanic ID\"}), 404\n    try:\n        mechanic_data = mechanic_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    for field, value in mechanic_data.items():",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def delete_mechanic():\n    query = select(Mechanic).where(Mechanic.id == id)\n    mechanic = db.session.get(Mechanic, request.mechanic_id)\n    if mechanic is None:\n        return jsonify({\"message\": \"Invalid mechanic ID\"}), 404\n    db.session.delete(mechanic)\n    db.session.commit()\n    return jsonify({'message': f\"Successfully deleted mechanic.\"}), 200\n#lambda function to which mechanics have worked on the most tickets\n@mechanics_bp.route(\"/popularity/\", methods=[\"GET\"])",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "popularity",
+        "kind": 2,
+        "importPath": "app.blueprints.mechanics.routes",
+        "description": "app.blueprints.mechanics.routes",
+        "peekOfCode": "def popularity():\n    query = select(Mechanic)\n    mechanics = db.session.execute(query).scalars().all()\n    mechanics.sort(key=lambda mechanic : len(mechanic.tickets), reverse=True)\n    return mechanics_schema.jsonify(mechanics)\n    # for mechanic in mechanics:\n    #     print(mechanic.id, mechanic.ticket.count)\n    # return mechanics_schema.jsonify(mechanics), 200",
+        "detail": "app.blueprints.mechanics.routes",
+        "documentation": {}
+    },
+    {
+        "label": "MechanicSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "class MechanicSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Mechanic\nmechanic_schema = MechanicSchema()\nmechanics_schema = MechanicSchema(many=True)\nlogin_schema = MechanicSchema(exclude=['name', 'address'])\nreturn_mechanic_schema = MechanicSchema()\nedit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "mechanic_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "mechanic_schema = MechanicSchema()\nmechanics_schema = MechanicSchema(many=True)\nlogin_schema = MechanicSchema(exclude=['name', 'address'])\nreturn_mechanic_schema = MechanicSchema()\nedit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "mechanics_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "mechanics_schema = MechanicSchema(many=True)\nlogin_schema = MechanicSchema(exclude=['name', 'address'])\nreturn_mechanic_schema = MechanicSchema()\nedit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "login_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "login_schema = MechanicSchema(exclude=['name', 'address'])\nreturn_mechanic_schema = MechanicSchema()\nedit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "return_mechanic_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "return_mechanic_schema = MechanicSchema()\nedit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "edit_mechanic_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.mechanics.schemas",
+        "description": "app.blueprints.mechanics.schemas",
+        "peekOfCode": "edit_mechanic_schema = MechanicSchema(partial=True)",
+        "detail": "app.blueprints.mechanics.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "add_part_description",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def add_part_description():\n    try:\n        part_description_data = part_description_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(PartDescription).where(PartDescription.id == part_description_data[\"id\"])\n    part_description = db.session.execute(query).scalars().first()\n    if part_description:\n        return jsonify({'error': 'serialized part already exists'}), 400\n    new_part_description = PartDescription(**part_description_data)",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_part_descriptions",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def get_part_descriptions():\n    page = request.args.get('page', type=int)\n    per_page = request.args.get('per_page', default=10, type=int)\n    query = select(PartDescription)\n    part_descriptions = db.paginate(query, page=page, per_page=per_page)\n    return part_descriptions_schema.jsonify(part_descriptions), 200\n# get part_description by id\n@part_description_bp.route(\"/<int:part_description_id>\", methods=[\"GET\"])\ndef get_part_description(part_description_id):\n    part_description = db.session.get(PartDescription, part_description_id)",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_part_description",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def get_part_description(part_description_id):\n    part_description = db.session.get(PartDescription, part_description_id)\n    if part_description:\n        return part_description_schema.jsonify(part_description), 200\n    return jsonify({\"error\": \"Invalid part description ID\"}), 404\n# update part_description\n@part_description_bp.route(\"/<int:part_description_id>\", methods=[\"PUT\"])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 part_descriptions per hour\ndef update_part_description(part_description_id):",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_part_description",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def update_part_description(part_description_id):\n    part_description = db.session.get(PartDescription, part_description_id)\n    if not part_description:\n        return jsonify({\"error\": \"Invalid part description ID\"}), 404\n    try:\n        part_description_data = part_description_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    for field, value in part_description_data.items():\n        setattr(part_description, field, value)",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_part_description",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def delete_part_description(part_description_id):\n    part_description = db.session.get(PartDescription, part_description_id)\n    if not part_description:\n        return jsonify({\"message\": \"Invalid part id\"}), 404\n    db.session.delete(part_description)\n    db.session.commit()\n    return jsonify({\"message\": f\"Successfully deleted part_description {part_description_id}\"}), 200\n@part_description_bp.route(\"/search\", methods=['GET'])\ndef search_by_part_name():\n    name = request.args.get('name')",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "search_by_part_name",
+        "kind": 2,
+        "importPath": "app.blueprints.part_description.routes",
+        "description": "app.blueprints.part_description.routes",
+        "peekOfCode": "def search_by_part_name():\n    name = request.args.get('name')\n    query = select(PartDescription).where(PartDescription.part_name.ilike(f\"%{name}%\"))\n    results = db.session.execute(query).scalars().all()\n    return part_descriptions_schema.jsonify(results)",
+        "detail": "app.blueprints.part_description.routes",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription_Schema",
+        "kind": 6,
+        "importPath": "app.blueprints.part_description.schemas",
+        "description": "app.blueprints.part_description.schemas",
+        "peekOfCode": "class PartDescription_Schema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = PartDescription\n        include_relationships = True  # Optional, includes relationships if needed\npart_description_schema = PartDescription_Schema()\npart_descriptions_schema = PartDescription_Schema(many=True)",
+        "detail": "app.blueprints.part_description.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "part_description_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.part_description.schemas",
+        "description": "app.blueprints.part_description.schemas",
+        "peekOfCode": "part_description_schema = PartDescription_Schema()\npart_descriptions_schema = PartDescription_Schema(many=True)",
+        "detail": "app.blueprints.part_description.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "part_descriptions_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.part_description.schemas",
+        "description": "app.blueprints.part_description.schemas",
+        "peekOfCode": "part_descriptions_schema = PartDescription_Schema(many=True)",
+        "detail": "app.blueprints.part_description.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "add_serialized_part",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def add_serialized_part():\n    try:\n        serialized_part_data = serialized_part_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(SerializedPart).where(SerializedPart.id == serialized_part_data[\"id\"])\n    serialized_part = db.session.execute(query).scalars().first()\n    if serialized_part:\n        return jsonify({'error': 'serialized part already exists'}), 400\n    new_serialized_part = SerializedPart(**serialized_part_data)",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_serialized_parts",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def get_serialized_parts():\n    page = int(request.args.get(\"page\", 1))\n    per_page = int(request.args.get(\"per_page\", 10))\n    query = select(SerializedPart)\n    pagination = db.paginate(query, page=page, per_page=per_page)\n    return {\n        \"items\": serialized_parts_schema.dump(pagination.items),\n        \"total\": pagination.total,\n        \"pages\": pagination.pages\n    }, 200",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_serialized_part",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def get_serialized_part(serialized_part_id):\n    serialized_part = db.session.get(SerializedPart, serialized_part_id)\n    if serialized_part:\n        return serialized_part_schema.jsonify(serialized_part), 200\n    return jsonify({\"error\": \"Invalid serialized part\"}), 404\n#* update serialized_part\n@serialized_part_bp.route(\"/<int:serialized_part_id>\", methods=[\"PUT\"])\n@token_required\n@limiter.limit(\"3 per hour\") # Added additional limiting because no need to update > 3 serialized_parts per hour\ndef update_serialized_part(serialized_part_id):",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_serialized_part",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def update_serialized_part(serialized_part_id):\n    serialized_part = db.session.get(SerializedPart, serialized_part_id)\n    if not serialized_part:\n        return jsonify({\"error\": \"Invalid part description ID\"}), 404\n    try:\n        serialized_part_data = serialized_part_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    for field, value in serialized_part_data.items():\n        setattr(serialized_part, field, value)",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_serialized_part",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def delete_serialized_part(serialized_part_id):\n    serialized_part = db.session.get(SerializedPart, serialized_part_id)\n    if not serialized_part:\n        return jsonify({\"message\": \"Invalid part id\"}), 404\n    db.session.delete(serialized_part)\n    db.session.commit()\n    return jsonify({\"message\": f\"Successfully deleted serialized_part {serialized_part_id}\"}), 200\n# search for like terms\n@serialized_part_bp.route(\"/search\", methods=['GET'])\ndef search_by_part_name():",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "search_by_part_name",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def search_by_part_name():\n    name = request.args.get('name')\n    query = select(serialized_part).where(serialized_part.name.like(f\"%{name}%\"))\n    serialized_part = db.session.execute(query.scalars().first())\n    return serialized_part_schema.jsonify(serialized_part), 200\n#* search for total inventory by part description\n@serialized_part_bp.route(\"/stock/<int:description_id>\", methods=[\"GET\"])\ndef get_individual_stock(description_id):\n    serialized_part = db.session.get(PartDescription, description_id)\n    # get list of serialized parts",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_individual_stock",
+        "kind": 2,
+        "importPath": "app.blueprints.serialized_parts.routes",
+        "description": "app.blueprints.serialized_parts.routes",
+        "peekOfCode": "def get_individual_stock(description_id):\n    serialized_part = db.session.get(PartDescription, description_id)\n    # get list of serialized parts\n    parts = serialized_part.serialized_parts\n    count = 0\n    for part in parts:\n        if not part.ticket_id:\n            count += 1\n    return jsonify({\n        \"item\": serialized_part.part_name,",
+        "detail": "app.blueprints.serialized_parts.routes",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart_Schema",
+        "kind": 6,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "class SerializedPart_Schema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = SerializedPart\n        include_fk = True\nserialized_part_schema = SerializedPart_Schema()\nserialized_parts_schema = SerializedPart_Schema(many=True)\nclass ResponseSerializedPartSchema(ma.SQLAlchemyAutoSchema):\n    description = fields.Nested(\"PartDescriptionSchema\")\n    class Meta:\n        model = SerializedPart",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseSerializedPartSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "class ResponseSerializedPartSchema(ma.SQLAlchemyAutoSchema):\n    description = fields.Nested(\"PartDescriptionSchema\")\n    class Meta:\n        model = SerializedPart\nresponse_schema = ResponseSerializedPartSchema()\nresponses_schema = ResponseSerializedPartSchema(many=True)",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "serialized_part_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "serialized_part_schema = SerializedPart_Schema()\nserialized_parts_schema = SerializedPart_Schema(many=True)\nclass ResponseSerializedPartSchema(ma.SQLAlchemyAutoSchema):\n    description = fields.Nested(\"PartDescriptionSchema\")\n    class Meta:\n        model = SerializedPart\nresponse_schema = ResponseSerializedPartSchema()\nresponses_schema = ResponseSerializedPartSchema(many=True)",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "serialized_parts_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "serialized_parts_schema = SerializedPart_Schema(many=True)\nclass ResponseSerializedPartSchema(ma.SQLAlchemyAutoSchema):\n    description = fields.Nested(\"PartDescriptionSchema\")\n    class Meta:\n        model = SerializedPart\nresponse_schema = ResponseSerializedPartSchema()\nresponses_schema = ResponseSerializedPartSchema(many=True)",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "response_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "response_schema = ResponseSerializedPartSchema()\nresponses_schema = ResponseSerializedPartSchema(many=True)",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "responses_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.serialized_parts.schemas",
+        "description": "app.blueprints.serialized_parts.schemas",
+        "peekOfCode": "responses_schema = ResponseSerializedPartSchema(many=True)",
+        "detail": "app.blueprints.serialized_parts.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "add_ticket",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def add_ticket():\n    try:\n        service_ticket_data = service_ticket_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    # use data to create an instance of service_ticket\n    new_service_ticket = Service_Ticket(**service_ticket_data)\n    # add the new service_ticket to the session\n    db.session.add(new_service_ticket)\n    db.session.commit()",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_tickets",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def get_service_tickets():\n    page = request.args.get('page', type=int)\n    per_page = request.args.get('per_page', default=10, type=int)\n    if page:\n        pagination = db.paginate(select(Service_Ticket), page=page, per_page=per_page)\n        service_tickets = pagination.items\n        if not service_tickets:\n            return jsonify({\"message\": \"No service_tickets found\"}), 404\n        return service_tickets_schema.jsonify(service_tickets)\n    else:",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_ticket",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def get_service_ticket(service_tickets_id):\n    service_tickets = db.session.get(Service_Ticket, service_tickets_id)\n    if service_tickets:\n        return service_tickets_schema.jsonify(service_tickets), 200\n    return jsonify({\"error\": \"invalid service_tickets ID\"}), 400\n# # Add mechanic to ticket\n@service_tickets_bp.route(\"/<int:ticket_id>/add-mechanic/<int:mechanic_id>\", methods=[\"PUT\"])\n# @token_required\n@limiter.limit(\"3 per hour\") # no need to add more than 3 mechanics to a ticket per hour\ndef add_mechanic(ticket_id, mechanic_id):",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "add_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def add_mechanic(ticket_id, mechanic_id):\n    ticket = db.session.get(Service_Ticket, ticket_id)\n    mechanic = db.session.get(Mechanic, mechanic_id)\n    if ticket and mechanic:\n        if mechanic not in ticket.mechanic:\n            ticket.mechanic.append(mechanic)\n            db.session.commit()\n            return jsonify(\n                {\n                    \"message\": f\"successfully added {mechanic.name} to the ticket\",",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "remove_mechanic",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def remove_mechanic(ticket_id, mechanic_id):\n    ticket = db.session.get(Service_Ticket, ticket_id)\n    mechanic = db.session.get(Mechanic, mechanic_id)\n    if ticket and mechanic:\n        if mechanic in ticket.mechanic:\n            ticket.mechanic.remove(mechanic)\n            db.session.commit()\n            return jsonify(\n                {\n                    \"message\": f\"successfully remove {mechanic.name} from the ticket\",",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_ticket",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def delete_ticket(id):\n    query = select(Service_Ticket).where(Service_Ticket.id == id)\n    ticket = db.session.execute(query).scalars().first()\n    if ticket is None:\n        return jsonify({\"message\": \"Invalid ticket ID\"}), 404\n    db.session.delete(ticket)\n    db.session.commit()\n    return jsonify({\"message\": f\"Successfully deleted ticket {id}\"}), 200\n# Edit Tickets\n@service_tickets_bp.route(\"/<int:ticket_id>\", methods=[\"PUT\"])",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "edit_ticket",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def edit_ticket():\n    try:\n        mechanic_edits = edit_mechanic_schema(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    query = select(Mechanic).where(Mechanic.id == id)\n    ticket = db.session.execute(query).scalars().first()\n    # ASK DYLAN IF THIS IS COORECT SETUP (NOT SURE HOW HIS LIBRARY TRANSLATES TO MY MECHANIC SHOP)\n    # set up for loop to edit tickets\n    for mechanic_id in mechanic_edits('add_mechanic_ids'):",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "popular_service",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def popular_service():\n    query = select(Service_Ticket)\n    service_tickets = db.session.execute(query).scalars().all()\n    for ticket in service_tickets:\n        print(ticket.type, ticket.service_ticket)\n    print(len(service_tickets))\n# add serialized part to sercice ticket\n@service_tickets_bp.route(\"/<int:ticket_id>/add-part/<int:part_id>\", methods=[\"PUT\"])\n@token_required\n@limiter.limit(\"3 per hour\") # no need to add more than 3 parts to a ticket per hour",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "add_part",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def add_part(ticket_id, part_id):\n    ticket = db.session.get(Service_Ticket, ticket_id)\n    part = db.session.get(SerializedPart, part_id)\n    if ticket and part and part:\n        if not part.ticket_id:\n            ticket.serialized_parts.append(part)\n            db.session.commit()\n            return jsonify(\n                {\n                    \"message\": f\"successfully added {part.description.part_name} to the ticket\",",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "app.blueprints.service_tickets.routes",
+        "description": "app.blueprints.service_tickets.routes",
+        "peekOfCode": "def add_to_cart(ticket_id, description_id):\n    ticket = db.session.get(Service_Ticket, ticket_id)     \n    description = db.session.get(PartDescription, description_id)\n    #* Pythonic route\n    parts = description.serialized_parts\n    for part in parts:\n        if not part.ticket_id:\n            ticket.serialized_parts.append(part)\n            db.session.commit()\n            return jsonify(",
+        "detail": "app.blueprints.service_tickets.routes",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceTicketSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "class ServiceTicketSchema(ma.SQLAlchemyAutoSchema):\n    mechanic = fields.Nested(\"MechanicSchema\", many=True)\n    vehicle = fields.Nested(\"VehcicleSchema\")\n    class Meta:\n        model = Service_Ticket\n        fields = (\"date\", \"type\", \"status\", \"customer_id\", \"vehicle_id\", \"mechanic\")\n        include_fk = True\n# NOT SURE IF THIS BELONGS BUT WOULD NOT LET ME RUN APP.PY WITHOUT IT SINCE IT IS IMPORTED IN ROUTES.PY\nclass ReturnMechanicSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ReturnMechanicSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "class ReturnMechanicSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Mechanic\n        load_instance = True\n        fields = (\"id\", \"name\", \"address\")\n        include_fk = True\nclass EditServiceTicketSchema(ma.Schema):\n    add_mechanic_id = fields.List(fields.Int(), required=True)\n    delete_mechanic_id = fields.List(fields.Int(), required=True)\n    class Meta:",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "EditServiceTicketSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "class EditServiceTicketSchema(ma.Schema):\n    add_mechanic_id = fields.List(fields.Int(), required=True)\n    delete_mechanic_id = fields.List(fields.Int(), required=True)\n    class Meta:\n        fields = (\"add_mechanic_id\", \"delete_mechanic_id\")\nservice_ticket_schema = ServiceTicketSchema()\nservice_tickets_schema = ServiceTicketSchema(many=True)\nedit_service_tickets_schema = EditServiceTicketSchema()\nreturn_mechanic_schema = ReturnMechanicSchema()",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "service_ticket_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "service_ticket_schema = ServiceTicketSchema()\nservice_tickets_schema = ServiceTicketSchema(many=True)\nedit_service_tickets_schema = EditServiceTicketSchema()\nreturn_mechanic_schema = ReturnMechanicSchema()",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "service_tickets_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "service_tickets_schema = ServiceTicketSchema(many=True)\nedit_service_tickets_schema = EditServiceTicketSchema()\nreturn_mechanic_schema = ReturnMechanicSchema()",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "edit_service_tickets_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "edit_service_tickets_schema = EditServiceTicketSchema()\nreturn_mechanic_schema = ReturnMechanicSchema()",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "return_mechanic_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.service_tickets.schemas",
+        "description": "app.blueprints.service_tickets.schemas",
+        "peekOfCode": "return_mechanic_schema = ReturnMechanicSchema()",
+        "detail": "app.blueprints.service_tickets.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "add_vehicle",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def add_vehicle():\n    try:\n        vehicle_data = vehicle_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    new_vehicle = Vehicle(**vehicle_data)\n    db.session.add(new_vehicle)\n    db.session.commit()\n    return vehicle_schema.jsonify(new_vehicle), 201\n# get all vehicles",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_vehicles",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def get_vehicles():\n    page = request.args.get('page', type=int)\n    per_page = request.args.get('per_page', default=10, type=int)\n    query = select(Vehicle)\n    vehicles = db.paginate(query, page=page, per_page=per_page)\n    return vehicles_schema.jsonify(vehicles), 200\n# get vehicle by id\n@vehicles_bp.route('/<int:id>', methods=['GET'])\ndef get_vehicle(id):\n    query = select(Vehicle).where(Vehicle.id == id)",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_vehicle",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def get_vehicle(id):\n    query = select(Vehicle).where(Vehicle.id == id)\n    vehicle = db.session.execute(query).scalars().first()\n    if vehicle is None:\n        return jsonify({'message': \"Invalid vehicle ID\"}), 400\n    return vehicle_schema.jsonify(vehicle), 200\n# update vehicle\n@vehicles_bp.route('/', methods=['PUT'])\n@token_required\n@limiter.limit(\"3 per hour\")  # Added additional limiting because no need to update > 3 vehicles per hour",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_vehicle",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def update_vehicle(id):\n    query = select(Vehicle).where(Vehicle.id == id)\n    vehicle = db.session.execute(query).scalars().first()\n    if vehicle is None:\n        return jsonify({'message': \"Invalid vehicle ID\"}), 404\n    try:\n        vehicle_data = vehicle_schema.load(request.json)\n    except ValidationError as e:\n        return jsonify(e.messages), 400\n    for field, value in vehicle_data.items():",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_vehicle",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def delete_vehicle(id):\n    query = select(Vehicle).where(Vehicle.id == id)\n    vehicle = db.session.execute(query).scalars().first()\n    if vehicle is None:\n        return jsonify({'message': \"Invalid vehicle ID\"}), 404\n    db.session.delete(vehicle)\n    db.session.commit()\n    return jsonify({'message': f\"Successfully deleted vehicle {id}\"}), 200\n#lambda function to determine popularity by quantity of each vehicle make\n@vehicles_bp.route(\"/popular\", methods=[\"GET\"])",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "popular_vehicles",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def popular_vehicles():\n    query = select(Vehicle)\n    vehicles = db.session.execute(query).scalars().all()\n    vehicles.sort(key=lambda vehicle : vehicle.make)\n    for vehicle in vehicles:\n        print(vehicle.make, vehicle.model.count)\n    return vehicles_schema.jsonify(vehicles), 200\n# query param to search for vehicles by make or model\n@vehicles_bp.route(\"/search\", methods=['GET'])\ndef search_vehicles():",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "search_vehicles",
+        "kind": 2,
+        "importPath": "app.blueprints.vehicles.routes",
+        "description": "app.blueprints.vehicles.routes",
+        "peekOfCode": "def search_vehicles():\n    make = request.args.get('make')\n    model = request.args.get('model')\n    query = select(Vehicle)\n    if make:\n        query = query.where(Vehicle.make.ilike(f\"%{make}%\"))\n    if model:\n        query = query.where(Vehicle.model.ilike(f\"%{model}%\"))\n    vehicles = db.session.execute(query).scalars().all()\n    if not vehicles:",
+        "detail": "app.blueprints.vehicles.routes",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleSchema",
+        "kind": 6,
+        "importPath": "app.blueprints.vehicles.schemas",
+        "description": "app.blueprints.vehicles.schemas",
+        "peekOfCode": "class VehicleSchema(ma.SQLAlchemyAutoSchema):\n    class Meta:\n        model = Vehicle\n        include_fk = True\nvehicle_schema = VehicleSchema()\nvehicles_schema = VehicleSchema(many=True)",
+        "detail": "app.blueprints.vehicles.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.vehicles.schemas",
+        "description": "app.blueprints.vehicles.schemas",
+        "peekOfCode": "vehicle_schema = VehicleSchema()\nvehicles_schema = VehicleSchema(many=True)",
+        "detail": "app.blueprints.vehicles.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles_schema",
+        "kind": 5,
+        "importPath": "app.blueprints.vehicles.schemas",
+        "description": "app.blueprints.vehicles.schemas",
+        "peekOfCode": "vehicles_schema = VehicleSchema(many=True)",
+        "detail": "app.blueprints.vehicles.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "encode_token",
+        "kind": 2,
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "peekOfCode": "def encode_token(mechanic_id):  # using unique pieces of info to make our tokens user specific\n    payload = {\n        \"exp\": datetime.now(timezone.utc) + timedelta(days=2, hours=0),  # setting the expiration time to an hour past now (change later)\n        \"iat\": datetime.now(timezone.utc),  # issued at time\n        \"sub\": str(mechanic_id) # This needs to be a string or the token will be malformd and wont be able to be decoded\n    }\n    token = jwt.encode(payload, SECRET_KEY, algorithm=\"HS256\")\n    return token\ndef token_required(f):  # token required decorator: takes (f) usually route handler function as an argument and uses it to check if request has valid token\n    @wraps(f)",
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "token_required",
+        "kind": 2,
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "peekOfCode": "def token_required(f):  # token required decorator: takes (f) usually route handler function as an argument and uses it to check if request has valid token\n    @wraps(f)\n    def decorated(*args, **kwargs):  # ensures the wrapped function (decorated) retains name and docstring of the original function (f)\n        token = None # initalizes token to none and checks if authorization header is present in request. if so splits header to extract actual token\n        auth_header = request.headers.get(\"Authorization\") \n        #look for token in the request headers\n        if \"Authorization\" in request.headers:\n            token = request.headers[\"Authorization\"].split(\" \")[1]\n            if not token: # if no token found returns JSON response with an error message and 401\n                return jsonify({\"message\": \"Token is missing!\"}), 401",
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.utils.utils",
+        "description": "app.utils.utils",
+        "peekOfCode": "SECRET_KEY = os.environ.get(\"SECRET_KEY\") or \"super secret secrets\"\n# SECRET_KEY = ogdpro4ZVLwTMX/zUadt45GziZYMX81oKXHWf3Wq8pj6CPZ/beceSxUF00szUm7oeRbfuBByfEowRGMrR141kw==\ndef encode_token(mechanic_id):  # using unique pieces of info to make our tokens user specific\n    payload = {\n        \"exp\": datetime.now(timezone.utc) + timedelta(days=2, hours=0),  # setting the expiration time to an hour past now (change later)\n        \"iat\": datetime.now(timezone.utc),  # issued at time\n        \"sub\": str(mechanic_id) # This needs to be a string or the token will be malformd and wont be able to be decoded\n    }\n    token = jwt.encode(payload, SECRET_KEY, algorithm=\"HS256\")\n    return token",
+        "detail": "app.utils.utils",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "peekOfCode": "db = SQLAlchemy()\nma = Marshmallow()\nlimiter = Limiter(key_func=get_remote_address,\n    default_limits=[\"200 per day\", \"50 per hour\"])\ncache = Cache()",
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "kind": 5,
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "peekOfCode": "ma = Marshmallow()\nlimiter = Limiter(key_func=get_remote_address,\n    default_limits=[\"200 per day\", \"50 per hour\"])\ncache = Cache()",
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "limiter",
+        "kind": 5,
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "peekOfCode": "limiter = Limiter(key_func=get_remote_address,\n    default_limits=[\"200 per day\", \"50 per hour\"])\ncache = Cache()",
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "kind": 5,
+        "importPath": "app.extensions",
+        "description": "app.extensions",
+        "peekOfCode": "cache = Cache()",
+        "detail": "app.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\ndb = SQLAlchemy(model_class=Base)\n# Association table for many-to-many relationship between vehicles and mechanics\nvehicle_mechanic_association = db.Table(\n    'vehicle_mechanic_association',\n    Base.metadata,\n    Column('vehicle_id', Integer, ForeignKey('vehicles.id')),\n    Column('mechanic_id', Integer, ForeignKey('mechanics.id'))\n)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Customer(Base):\n    __tablename__ = 'customers'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    name: Mapped[str] = mapped_column(String(125), nullable=False)\n    email: Mapped[str] = mapped_column(String(200), unique=True)\n    phone: Mapped[str] = mapped_column(String(50))\n    # Relationships\n    vehicles: Mapped[List[\"Vehicle\"]] = relationship(\"Vehicle\", back_populates=\"customer\")\n    tickets: Mapped[List[\"Service_Ticket\"]] = relationship(\"Service_Ticket\", back_populates=\"customer\")\nclass Vehicle(Base):",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Vehicle(Base):\n    __tablename__ = 'vehicles'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    make: Mapped[str] = mapped_column(String(150))\n    model: Mapped[str] = mapped_column(String(150))\n    customer_id: Mapped[int] = mapped_column(Integer, ForeignKey('customers.id'))\n    # Relationships\n    customer: Mapped[\"Customer\"] = relationship(\"Customer\", back_populates=\"vehicles\")\n    tickets: Mapped[List[\"Service_Ticket\"]] = relationship(\"Service_Ticket\", back_populates=\"vehicle\")\n    assigned_mechanics: Mapped[List[\"Mechanic\"]] = relationship(\"Mechanic\", secondary=vehicle_mechanic_association)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mechanic",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Mechanic(Base):\n    __tablename__ = 'mechanics'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    name: Mapped[str] = mapped_column(String(150))\n    address: Mapped[str] = mapped_column(String(150))\n    email: Mapped[str] = mapped_column(String(200), unique=True)\n    password: Mapped[str] = mapped_column(String(200), nullable=False)\n    # Relationships\n    tickets: Mapped[List[\"Service_Ticket\"]] = relationship(secondary=service_mechanic, back_populates=\"mechanic\")\n    vehicles: Mapped[List[\"Vehicle\"]] = relationship(\"Vehicle\", secondary=vehicle_mechanic_association, overlaps=\"assigned_mechanics\")",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Service_Ticket",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Service_Ticket(Base):\n    __tablename__ = 'tickets'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    date: Mapped[DateTime] = mapped_column(DateTime)\n    type: Mapped[str] = mapped_column(String(150))\n    status: Mapped[str] = mapped_column(String(150))\n    customer_id: Mapped[int] = mapped_column(Integer, ForeignKey('customers.id'))\n    vehicle_id: Mapped[int] = mapped_column(Integer, ForeignKey('vehicles.id'))\n    # Relationships\n    customer: Mapped[\"Customer\"] = db.relationship(back_populates=\"tickets\")",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PartDescription",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class PartDescription(Base):\n    __tablename__ = 'part_descriptions'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    part_name: Mapped[str] = mapped_column(String(200), nullable=False)\n    brand: Mapped[str] = mapped_column(String(200), nullable=False)\n    price: Mapped[float] = mapped_column(db.Float, nullable=False)\n    serialized_parts: Mapped[List['SerializedPart']] = db.relationship(\"SerializedPart\", back_populates=\"description\")\nclass SerializedPart(Base):\n    __tablename__ = 'serialized_parts'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SerializedPart",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class SerializedPart(Base):\n    __tablename__ = 'serialized_parts'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    desc_id: Mapped[int] = mapped_column(ForeignKey('part_descriptions.id'), nullable=False)\n    ticket_id: Mapped[int] = mapped_column(ForeignKey('tickets.id'), nullable=True)\n    description: Mapped[\"PartDescription\"] = db.relationship(\"PartDescription\", back_populates=\"serialized_parts\")\n    ticket: Mapped[\"Service_Ticket\"] = db.relationship(back_populates=\"serialized_parts\")",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "db = SQLAlchemy(model_class=Base)\n# Association table for many-to-many relationship between vehicles and mechanics\nvehicle_mechanic_association = db.Table(\n    'vehicle_mechanic_association',\n    Base.metadata,\n    Column('vehicle_id', Integer, ForeignKey('vehicles.id')),\n    Column('mechanic_id', Integer, ForeignKey('mechanics.id'))\n)\nservice_mechanic = db.Table(\n    'service_mechanic',",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "vehicle_mechanic_association",
+        "kind": 5,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "vehicle_mechanic_association = db.Table(\n    'vehicle_mechanic_association',\n    Base.metadata,\n    Column('vehicle_id', Integer, ForeignKey('vehicles.id')),\n    Column('mechanic_id', Integer, ForeignKey('mechanics.id'))\n)\nservice_mechanic = db.Table(\n    'service_mechanic',\n    Base.metadata,\n    Column('service_id', Integer, ForeignKey('tickets.id')),",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "service_mechanic",
+        "kind": 5,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "service_mechanic = db.Table(\n    'service_mechanic',\n    Base.metadata,\n    Column('service_id', Integer, ForeignKey('tickets.id')),\n    Column('mechanic_id', Integer, ForeignKey('mechanics.id'))\n)\nclass Customer(Base):\n    __tablename__ = 'customers'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True)\n    name: Mapped[str] = mapped_column(String(125), nullable=False)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCustomers",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_customers",
+        "description": "ignore_tests.tests2 2.test_customers",
+        "peekOfCode": "class TestCustomers(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.customer = Customer(name='John Doe', email='test@test.com', phone='1234567890')\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.customer)\n            db.session.commit()\n        # self.token = encode_token({\"user_id\": 1})",
+        "detail": "ignore_tests.tests2 2.test_customers",
+        "documentation": {}
+    },
+    {
+        "label": "TestMechanics",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_mechanics",
+        "description": "ignore_tests.tests2 2.test_mechanics",
+        "peekOfCode": "class TestMechanics(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.mechanic = Mechanic(name='John Doe', address='123 test Ave.', email='test@test.com', password='test123' )\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.mechanic)\n            db.session.commit()\n        self.token = encode_token({\"user_id\": 1})",
+        "detail": "ignore_tests.tests2 2.test_mechanics",
+        "documentation": {}
+    },
+    {
+        "label": "TestPartDescriptions",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_part_descriptions",
+        "description": "ignore_tests.tests2 2.test_part_descriptions",
+        "peekOfCode": "class TestPartDescriptions(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.part_description = PartDescription(part_name=\"test_part\", brand=\"test_brand\", price=100.0)\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.part_description)\n            db.session.commit()\n        self.token = encode_token({\"user_id\": 1})",
+        "detail": "ignore_tests.tests2 2.test_part_descriptions",
+        "documentation": {}
+    },
+    {
+        "label": "TestSerializedParts",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_serialized_parts",
+        "description": "ignore_tests.tests2 2.test_serialized_parts",
+        "peekOfCode": "class TestSerializedParts(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.client = self.app.test_client()\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            part_desc = PartDescription(\n                id=1, \n                part_name='test_part', ",
+        "detail": "ignore_tests.tests2 2.test_serialized_parts",
+        "documentation": {}
+    },
+    {
+        "label": "TestService_Tickets",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_service_tickets",
+        "description": "ignore_tests.tests2 2.test_service_tickets",
+        "peekOfCode": "class TestService_Tickets(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.service_ticket = Service_Ticket(date=\"2023-10-01\", type=\"test_type\", status='completed', customer_id=1, vehicle_id=1 )\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.service_ticket)\n            db.session.commit()\n        self.token = encode_token({\"user_id\": 1})",
+        "detail": "ignore_tests.tests2 2.test_service_tickets",
+        "documentation": {}
+    },
+    {
+        "label": "TestVehicles",
+        "kind": 6,
+        "importPath": "ignore_tests.tests2 2.test_vehicles",
+        "description": "ignore_tests.tests2 2.test_vehicles",
+        "peekOfCode": "class TestVehicles(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app('TestingConfig')\n        self.vehicle = Vehicle(make='test_make', model='test_model', customer_id= 1)\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            # Create a test customer\n            customer = Customer(id=1, name=\"Test Customer\", email=\"test@example.com\")\n            db.session.add(customer)",
+        "detail": "ignore_tests.tests2 2.test_vehicles",
+        "documentation": {}
+    },
+    {
+        "label": "TestCustomer",
+        "kind": 6,
+        "importPath": "tests2.test_customers",
+        "description": "tests2.test_customers",
+        "peekOfCode": "class TestCustomer(unittest.TestCase):\n        def setUp(self):\n            self.app = create_app()  # Initialize your app\n            self.customer = Customer(name='Test', email='test@test.com', phone='1234567890')\n            with self.app.app_context():\n                db.drop_all()\n                db.create_all()\n                db.session.add(self.customer)\n                db.session.commit()\n                self.customer_id = self.customer.id            ",
+        "detail": "tests2.test_customers",
+        "documentation": {}
+    },
+    {
+        "label": "TestMechanic",
+        "kind": 6,
+        "importPath": "tests2.test_mechanics",
+        "description": "tests2.test_mechanics",
+        "peekOfCode": "class TestMechanic(unittest.TestCase):\n    def setUp(self):\n        self.app = create_app()\n        self.mechanic = Mechanic(name='Test', address='123 Test', email='test@test.com', password=generate_password_hash('123'))\n        with self.app.app_context():\n            db.drop_all()\n            db.create_all()\n            db.session.add(self.mechanic)\n            db.session.commit()\n        self.token = encode_token(1)",
+        "detail": "tests2.test_mechanics",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = create_app('DevelopmentConfig')\nwith app.app_context():\n    # db.drop_all()\n    db.create_all()\n    app.run()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "DevelopmentConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class DevelopmentConfig:\n    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:C%40ntget1n@127.0.0.1/mechanic_db'\n    DEBUG = True\n    CACHE_TYPE = \"SimpleCache\"\nclass TestingConfig:\n    SQLALCHEMY_DATABASE_URI = 'sqlite:///tests_db.sqlite'\n    DEBUG = True\n    CACHE_TYPE = 'SimpleCache'\nclass ProductionConfig:\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\"SQLALCHEMY_DATABASE_URI\") or \"sqlite:///mechanic.db\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "TestingConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class TestingConfig:\n    SQLALCHEMY_DATABASE_URI = 'sqlite:///tests_db.sqlite'\n    DEBUG = True\n    CACHE_TYPE = 'SimpleCache'\nclass ProductionConfig:\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\"SQLALCHEMY_DATABASE_URI\") or \"sqlite:///mechanic.db\"\n    CACHE = \"SimpleCache\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class ProductionConfig:\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\"SQLALCHEMY_DATABASE_URI\") or \"sqlite:///mechanic.db\"\n    CACHE = \"SimpleCache\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "app = create_app('ProductionConfig')\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "run",
+        "documentation": {}
+    }
+]

@@ -35,22 +35,24 @@ def add_customer():
 def get_customers():
     page = request.args.get('page', type=int)
     per_page = request.args.get('per_page', default=10, type=int)
+    query = select(Customer)
+    customers = db.paginate(query, page=page, per_page=per_page)
+    return customers_schema.jsonify(customers), 200
 
+    # if page:
+    #     pagination = db.paginate(select(Customer), page=page, per_page=per_page)
+    #     customers = pagination.items
 
-    if page:
-        pagination = db.paginate(select(Customer), page=page, per_page=per_page)
-        customers = pagination.items
+    #     if not customers:
+    #         return jsonify({"message": "No customers found"}), 404
+    #     return customers_schema.jsonify(customers)
+    # else:
+    #     customers = db.session.execute(select(Customer)). scalars().all()
 
-        if not customers:
-            return jsonify({"message": "No customers found"}), 404
-        return customers_schema.jsonify(customers)
-    else:
-        customers = db.session.execute(select(Customer)). scalars().all()
-
-        if not customers:
-            return jsonify({"message": "No customers found"}), 404
+    #     if not customers:
+    #         return jsonify({"message": "No customers found"}), 404
         
-        return customers_schema.jsonify(customers), 200
+    #     return customers_schema.jsonify(customers), 200
 
 # get single customer
 @customers_bp.route("/<int:customer_id>", methods=['GET'])
@@ -70,7 +72,7 @@ def update_customer(customer_id):
     customer = db.session.get(Customer, customer_id)
 
     if not customer:
-        return jsonify({"error": "Invalid part description ID"}), 404
+        return jsonify({"error": "Invalid customer ID"}), 404
     
     try:
         customer_data = customer_schema.load(request.json)

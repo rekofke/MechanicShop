@@ -1,4 +1,4 @@
-from flask import request, jsonify
+from flask import request, jsonify, Blueprint
 from marshmallow import ValidationError
 from sqlalchemy import select, delete
 from . import serialized_part_bp
@@ -19,43 +19,47 @@ def add_serialized_part():
     except ValidationError as e:
         return jsonify(e.messages), 400
 
-    # use data to create an instance of serialized_part
+    query = select(SerializedPart).where(SerializedPart.id == serialized_part_data["id"])
+    serialized_part = db.session.execute(query).scalars().first()
+
+    if serialized_part:
+        return jsonify({'error': 'serialized part already exists'}), 400
+    
     new_serialized_part = SerializedPart(**serialized_part_data)
 
-    # add the new serialized_part to the session
     db.session.add(new_serialized_part)
     db.session.commit()
-
-    return jsonify({
-            "message": f"Added new {new_serialized_part.description.brand} {new_serialized_part.description.part_name} to serialized_parts",
-            "part": serialized_part_schema.dump(new_serialized_part)
-    })
-            
 
 
 #* get all serialized_parts
 @serialized_part_bp.route("/", methods=["GET"])
 @cache.cached(timeout=60)  # aded caching because assessing serialized_parts is a common operation
 def get_serialized_parts():
-    # Differnt way to paginate...
-    page = request.args.get('page', type=int)
-    per_page = request.args.get('per_page', default=10, type=int)
+    page = int(request.args.get("page", 1))
+    per_page = int(request.args.get("per_page", 10))
+    query = select(SerializedPart)
+    pagination = db.paginate(query, page=page, per_page=per_page)
+    
+    return {
+        "items": serialized_parts_schema.dump(pagination.items),
+        "total": pagination.total,
+        "pages": pagination.pages
+    }, 200
 
+    # if page:
+    #     pagination = db.paginate(select(SerializedPart), page=page, per_page=per_page)
+    #     serialized_part = pagination.items
 
-    if page:
-        pagination = db.paginate(select(SerializedPart), page=page, per_page=per_page)
-        serialized_part = pagination.items
+    #     if not serialized_part:
+    #         return jsonify({"message": "No serialized_parts found"}), 404
+    #     return serialized_parts_schema.jsonify(serialized_part)
+    # else:
+    #     serialized_parts = db.session.execute(select(SerializedPart)). scalars().all()
 
-        if not serialized_part:
-            return jsonify({"message": "No serialized_parts found"}), 404
-        return serialized_parts_schema.jsonify(serialized_part)
-    else:
-        serialized_parts = db.session.execute(select(SerializedPart)). scalars().all()
-
-        if not serialized_parts:
-            return jsonify({"message": "No mechanics found"}), 404
+    #     if not serialized_parts:
+    #         return jsonify({"message": "No mechanics found"}), 404
         
-        return serialized_parts_schema.jsonify(serialized_parts), 200
+    #     return serialized_parts_schema.jsonify(serialized_parts), 200
 
 # get serialized_part by id
 @serialized_part_bp.route("/<int:serialized_part_id>", methods=["GET"])
@@ -65,7 +69,7 @@ def get_serialized_part(serialized_part_id):
     if serialized_part:
         return serialized_part_schema.jsonify(serialized_part), 200
 
-    return jsonify({"error": "Invalid part description ID"}), 404
+    return jsonify({"error": "Invalid serialized part"}), 404
 
 
 #* update serialized_part
